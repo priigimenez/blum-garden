@@ -5,7 +5,6 @@ Blum Garden es un microproyecto personal donde exploro temas como Python, datos,
 
 Nace como diario digital, espacio técnico y bitácora de aprendizajes, todo al mismo tiempo 🌿
 
----
 
 ## 🧪 ¿Qué vas a encontrar?
 
@@ -15,7 +14,6 @@ Nace como diario digital, espacio técnico y bitácora de aprendizajes, todo al 
 - Reflexiones sueltas, listas de deseos, metas y hábitos
 - Ejercicios o herramientas aplicadas al día a día
 
----
 
 ## 🌱 ¿Para qué?
 
